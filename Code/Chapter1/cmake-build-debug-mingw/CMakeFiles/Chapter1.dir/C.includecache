@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/Code/Chapter1/03.code_style_good_names.c
+stdio.h
+-
+
