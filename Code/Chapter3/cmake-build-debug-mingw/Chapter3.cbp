@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Chapter3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chapter3">
+				<Option output="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Chapter3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 Chapter3"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chapter3/fast">
+				<Option output="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Chapter3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 Chapter3/fast"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/01.function_basics.c">
+			<Option target="Chapter3"/>
+		</Unit>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/02.porto_type.c">
+			<Option target="Chapter3"/>
+		</Unit>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/03.variable_types_and _scope.c">
+			<Option target="Chapter3"/>
+		</Unit>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/04.varargs.c">
+			<Option target="Chapter3"/>
+		</Unit>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/05.recursion.c">
+			<Option target="Chapter3"/>
+		</Unit>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/06.hanoi.c">
+			<Option target="Chapter3"/>
+		</Unit>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

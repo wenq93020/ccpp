@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter4/05.prinlnf.c
+stdio.h
+-
+stdarg.h
+-
+

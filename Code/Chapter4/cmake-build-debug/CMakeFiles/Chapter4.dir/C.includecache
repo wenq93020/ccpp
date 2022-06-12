@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter4/01.file_include.c
+stdio.h
+-
+

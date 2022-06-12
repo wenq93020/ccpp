@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/03.variable_types_and _scope.c
+stdio.h
+-
+
+D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter3/04.varargs.c
+stdio.h
+-
+stdarg.h
+-
+
