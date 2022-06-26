@@ -154,6 +154,114 @@ Chapter5\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\01.array_basics.c.s
 .PHONY : 01.array_basics.c.s
 
+02.array_limits.obj: 02.array_limits.c.obj
+
+.PHONY : 02.array_limits.obj
+
+# target to build an object file
+02.array_limits.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\02.array_limits.c.obj
+.PHONY : 02.array_limits.c.obj
+
+02.array_limits.i: 02.array_limits.c.i
+
+.PHONY : 02.array_limits.i
+
+# target to preprocess a source file
+02.array_limits.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\02.array_limits.c.i
+.PHONY : 02.array_limits.c.i
+
+02.array_limits.s: 02.array_limits.c.s
+
+.PHONY : 02.array_limits.s
+
+# target to generate assembly for a file
+02.array_limits.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\02.array_limits.c.s
+.PHONY : 02.array_limits.c.s
+
+03.string.obj: 03.string.c.obj
+
+.PHONY : 03.string.obj
+
+# target to build an object file
+03.string.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\03.string.c.obj
+.PHONY : 03.string.c.obj
+
+03.string.i: 03.string.c.i
+
+.PHONY : 03.string.i
+
+# target to preprocess a source file
+03.string.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\03.string.c.i
+.PHONY : 03.string.c.i
+
+03.string.s: 03.string.c.s
+
+.PHONY : 03.string.s
+
+# target to generate assembly for a file
+03.string.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\03.string.c.s
+.PHONY : 03.string.c.s
+
+04.array_parameter.obj: 04.array_parameter.c.obj
+
+.PHONY : 04.array_parameter.obj
+
+# target to build an object file
+04.array_parameter.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\04.array_parameter.c.obj
+.PHONY : 04.array_parameter.c.obj
+
+04.array_parameter.i: 04.array_parameter.c.i
+
+.PHONY : 04.array_parameter.i
+
+# target to preprocess a source file
+04.array_parameter.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\04.array_parameter.c.i
+.PHONY : 04.array_parameter.c.i
+
+04.array_parameter.s: 04.array_parameter.c.s
+
+.PHONY : 04.array_parameter.s
+
+# target to generate assembly for a file
+04.array_parameter.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\04.array_parameter.c.s
+.PHONY : 04.array_parameter.c.s
+
+05.2d_array.obj: 05.2d_array.c.obj
+
+.PHONY : 05.2d_array.obj
+
+# target to build an object file
+05.2d_array.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\05.2d_array.c.obj
+.PHONY : 05.2d_array.c.obj
+
+05.2d_array.i: 05.2d_array.c.i
+
+.PHONY : 05.2d_array.i
+
+# target to preprocess a source file
+05.2d_array.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\05.2d_array.c.i
+.PHONY : 05.2d_array.c.i
+
+05.2d_array.s: 05.2d_array.c.s
+
+.PHONY : 05.2d_array.s
+
+# target to generate assembly for a file
+05.2d_array.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\05.2d_array.c.s
+.PHONY : 05.2d_array.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -166,6 +274,18 @@ help:
 	@echo ... 01.array_basics.obj
 	@echo ... 01.array_basics.i
 	@echo ... 01.array_basics.s
+	@echo ... 02.array_limits.obj
+	@echo ... 02.array_limits.i
+	@echo ... 02.array_limits.s
+	@echo ... 03.string.obj
+	@echo ... 03.string.i
+	@echo ... 03.string.s
+	@echo ... 04.array_parameter.obj
+	@echo ... 04.array_parameter.i
+	@echo ... 04.array_parameter.s
+	@echo ... 05.2d_array.obj
+	@echo ... 05.2d_array.i
+	@echo ... 05.2d_array.s
 .PHONY : help
 
 

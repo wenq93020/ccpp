@@ -5,6 +5,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/01.array_basics.c" "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/cmake-build-debug/CMakeFiles/Chapter5.dir/01.array_basics.c.obj"
+  "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/02.array_limits.c" "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/cmake-build-debug/CMakeFiles/Chapter5.dir/02.array_limits.c.obj"
+  "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/03.string.c" "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/cmake-build-debug/CMakeFiles/Chapter5.dir/03.string.c.obj"
+  "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/04.array_parameter.c" "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/cmake-build-debug/CMakeFiles/Chapter5.dir/04.array_parameter.c.obj"
+  "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/05.2d_array.c" "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/cmake-build-debug/CMakeFiles/Chapter5.dir/05.2d_array.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "MSVC")
 

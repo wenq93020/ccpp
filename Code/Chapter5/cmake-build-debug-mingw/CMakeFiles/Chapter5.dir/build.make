@@ -89,19 +89,79 @@ CMakeFiles/Chapter5.dir/01.array_basics.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Chapter5.dir/01.array_basics.c.s"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\01.array_basics.c -o CMakeFiles\Chapter5.dir\01.array_basics.c.s
 
+CMakeFiles/Chapter5.dir/02.array_limits.c.obj: CMakeFiles/Chapter5.dir/flags.make
+CMakeFiles/Chapter5.dir/02.array_limits.c.obj: ../02.array_limits.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\cmake-build-debug-mingw\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Chapter5.dir/02.array_limits.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Chapter5.dir\02.array_limits.c.obj   -c D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\02.array_limits.c
+
+CMakeFiles/Chapter5.dir/02.array_limits.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Chapter5.dir/02.array_limits.c.i"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\02.array_limits.c > CMakeFiles\Chapter5.dir\02.array_limits.c.i
+
+CMakeFiles/Chapter5.dir/02.array_limits.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Chapter5.dir/02.array_limits.c.s"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\02.array_limits.c -o CMakeFiles\Chapter5.dir\02.array_limits.c.s
+
+CMakeFiles/Chapter5.dir/03.string.c.obj: CMakeFiles/Chapter5.dir/flags.make
+CMakeFiles/Chapter5.dir/03.string.c.obj: ../03.string.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\cmake-build-debug-mingw\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Chapter5.dir/03.string.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Chapter5.dir\03.string.c.obj   -c D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\03.string.c
+
+CMakeFiles/Chapter5.dir/03.string.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Chapter5.dir/03.string.c.i"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\03.string.c > CMakeFiles\Chapter5.dir\03.string.c.i
+
+CMakeFiles/Chapter5.dir/03.string.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Chapter5.dir/03.string.c.s"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\03.string.c -o CMakeFiles\Chapter5.dir\03.string.c.s
+
+CMakeFiles/Chapter5.dir/04.array_parameter.c.obj: CMakeFiles/Chapter5.dir/flags.make
+CMakeFiles/Chapter5.dir/04.array_parameter.c.obj: ../04.array_parameter.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\cmake-build-debug-mingw\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Chapter5.dir/04.array_parameter.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Chapter5.dir\04.array_parameter.c.obj   -c D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\04.array_parameter.c
+
+CMakeFiles/Chapter5.dir/04.array_parameter.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Chapter5.dir/04.array_parameter.c.i"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\04.array_parameter.c > CMakeFiles\Chapter5.dir\04.array_parameter.c.i
+
+CMakeFiles/Chapter5.dir/04.array_parameter.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Chapter5.dir/04.array_parameter.c.s"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\04.array_parameter.c -o CMakeFiles\Chapter5.dir\04.array_parameter.c.s
+
+CMakeFiles/Chapter5.dir/05.2d_array.c.obj: CMakeFiles/Chapter5.dir/flags.make
+CMakeFiles/Chapter5.dir/05.2d_array.c.obj: ../05.2d_array.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\cmake-build-debug-mingw\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Chapter5.dir/05.2d_array.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Chapter5.dir\05.2d_array.c.obj   -c D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\05.2d_array.c
+
+CMakeFiles/Chapter5.dir/05.2d_array.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Chapter5.dir/05.2d_array.c.i"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\05.2d_array.c > CMakeFiles\Chapter5.dir\05.2d_array.c.i
+
+CMakeFiles/Chapter5.dir/05.2d_array.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Chapter5.dir/05.2d_array.c.s"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\05.2d_array.c -o CMakeFiles\Chapter5.dir\05.2d_array.c.s
+
 # Object files for target Chapter5
 Chapter5_OBJECTS = \
-"CMakeFiles/Chapter5.dir/01.array_basics.c.obj"
+"CMakeFiles/Chapter5.dir/01.array_basics.c.obj" \
+"CMakeFiles/Chapter5.dir/02.array_limits.c.obj" \
+"CMakeFiles/Chapter5.dir/03.string.c.obj" \
+"CMakeFiles/Chapter5.dir/04.array_parameter.c.obj" \
+"CMakeFiles/Chapter5.dir/05.2d_array.c.obj"
 
 # External object files for target Chapter5
 Chapter5_EXTERNAL_OBJECTS =
 
 Chapter5.exe: CMakeFiles/Chapter5.dir/01.array_basics.c.obj
+Chapter5.exe: CMakeFiles/Chapter5.dir/02.array_limits.c.obj
+Chapter5.exe: CMakeFiles/Chapter5.dir/03.string.c.obj
+Chapter5.exe: CMakeFiles/Chapter5.dir/04.array_parameter.c.obj
+Chapter5.exe: CMakeFiles/Chapter5.dir/05.2d_array.c.obj
 Chapter5.exe: CMakeFiles/Chapter5.dir/build.make
 Chapter5.exe: CMakeFiles/Chapter5.dir/linklibs.rsp
 Chapter5.exe: CMakeFiles/Chapter5.dir/objects1.rsp
 Chapter5.exe: CMakeFiles/Chapter5.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\cmake-build-debug-mingw\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Chapter5.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\cmake-build-debug-mingw\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable Chapter5.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Chapter5.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

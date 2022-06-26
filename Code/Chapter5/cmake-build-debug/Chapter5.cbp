@@ -85,6 +85,18 @@
 		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/01.array_basics.c">
 			<Option target="Chapter5"/>
 		</Unit>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/02.array_limits.c">
+			<Option target="Chapter5"/>
+		</Unit>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/03.string.c">
+			<Option target="Chapter5"/>
+		</Unit>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/04.array_parameter.c">
+			<Option target="Chapter5"/>
+		</Unit>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/05.2d_array.c">
+			<Option target="Chapter5"/>
+		</Unit>
 		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/include/io_utils.h">
 			<Option target="Chapter5"/>
 		</Unit>
