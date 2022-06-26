@@ -6,8 +6,12 @@
 
 #IncludeRegexTransform: 
 
-D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/05.2d_array.c
+D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/06.shuffle_array.c
 stdio.h
+-
+stdlib.h
+-
+time.h
 -
 include/io_utils.h
 D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/include/io_utils.h

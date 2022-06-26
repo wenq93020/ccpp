@@ -156,13 +156,53 @@ CMakeFiles\Chapter5.dir\05.2d_array.c.s: cmake_force
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Chapter5.dir\05.2d_array.c.s /c D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\05.2d_array.c
 <<
 
+CMakeFiles\Chapter5.dir\06.shuffle_array.c.obj: CMakeFiles\Chapter5.dir\flags.make
+CMakeFiles\Chapter5.dir\06.shuffle_array.c.obj: ..\06.shuffle_array.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Chapter5.dir/06.shuffle_array.c.obj"
+	C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Chapter5.dir\06.shuffle_array.c.obj /FdCMakeFiles\Chapter5.dir\ /FS -c D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\06.shuffle_array.c
+<<
+
+CMakeFiles\Chapter5.dir\06.shuffle_array.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Chapter5.dir/06.shuffle_array.c.i"
+	C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe > CMakeFiles\Chapter5.dir\06.shuffle_array.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\06.shuffle_array.c
+<<
+
+CMakeFiles\Chapter5.dir\06.shuffle_array.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Chapter5.dir/06.shuffle_array.c.s"
+	C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Chapter5.dir\06.shuffle_array.c.s /c D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\06.shuffle_array.c
+<<
+
+CMakeFiles\Chapter5.dir\07.quick_sort.c.obj: CMakeFiles\Chapter5.dir\flags.make
+CMakeFiles\Chapter5.dir\07.quick_sort.c.obj: ..\07.quick_sort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Chapter5.dir/07.quick_sort.c.obj"
+	C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Chapter5.dir\07.quick_sort.c.obj /FdCMakeFiles\Chapter5.dir\ /FS -c D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\07.quick_sort.c
+<<
+
+CMakeFiles\Chapter5.dir\07.quick_sort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Chapter5.dir/07.quick_sort.c.i"
+	C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe > CMakeFiles\Chapter5.dir\07.quick_sort.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\07.quick_sort.c
+<<
+
+CMakeFiles\Chapter5.dir\07.quick_sort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Chapter5.dir/07.quick_sort.c.s"
+	C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Chapter5.dir\07.quick_sort.c.s /c D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\07.quick_sort.c
+<<
+
 # Object files for target Chapter5
 Chapter5_OBJECTS = \
 "CMakeFiles\Chapter5.dir\01.array_basics.c.obj" \
 "CMakeFiles\Chapter5.dir\02.array_limits.c.obj" \
 "CMakeFiles\Chapter5.dir\03.string.c.obj" \
 "CMakeFiles\Chapter5.dir\04.array_parameter.c.obj" \
-"CMakeFiles\Chapter5.dir\05.2d_array.c.obj"
+"CMakeFiles\Chapter5.dir\05.2d_array.c.obj" \
+"CMakeFiles\Chapter5.dir\06.shuffle_array.c.obj" \
+"CMakeFiles\Chapter5.dir\07.quick_sort.c.obj"
 
 # External object files for target Chapter5
 Chapter5_EXTERNAL_OBJECTS =
@@ -172,9 +212,11 @@ Chapter5.exe: CMakeFiles\Chapter5.dir\02.array_limits.c.obj
 Chapter5.exe: CMakeFiles\Chapter5.dir\03.string.c.obj
 Chapter5.exe: CMakeFiles\Chapter5.dir\04.array_parameter.c.obj
 Chapter5.exe: CMakeFiles\Chapter5.dir\05.2d_array.c.obj
+Chapter5.exe: CMakeFiles\Chapter5.dir\06.shuffle_array.c.obj
+Chapter5.exe: CMakeFiles\Chapter5.dir\07.quick_sort.c.obj
 Chapter5.exe: CMakeFiles\Chapter5.dir\build.make
 Chapter5.exe: CMakeFiles\Chapter5.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable Chapter5.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable Chapter5.exe"
 	"D:\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\Chapter5.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\Chapter5.dir\objects1.rsp @<<
  /out:Chapter5.exe /implib:Chapter5.lib /pdb:D:\StudySpace\CC++\CYuYanXiTongHuaJingJiang\ccpp\Code\Chapter5\cmake-build-debug\Chapter5.pdb /version:0.0  /machine:x64 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

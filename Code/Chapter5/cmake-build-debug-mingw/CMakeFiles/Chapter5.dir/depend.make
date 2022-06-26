@@ -10,5 +10,7 @@ CMakeFiles/Chapter5.dir/03.string.c.obj: ../03.string.c
 CMakeFiles/Chapter5.dir/04.array_parameter.c.obj: ../04.array_parameter.c
 
 CMakeFiles/Chapter5.dir/05.2d_array.c.obj: ../05.2d_array.c
-CMakeFiles/Chapter5.dir/05.2d_array.c.obj: ../include/io_utils.h
+
+CMakeFiles/Chapter5.dir/06.shuffle_array.c.obj: ../06.shuffle_array.c
+CMakeFiles/Chapter5.dir/06.shuffle_array.c.obj: ../include/io_utils.h
 

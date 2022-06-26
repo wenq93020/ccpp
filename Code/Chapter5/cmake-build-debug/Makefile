@@ -262,6 +262,60 @@ Chapter5\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\05.2d_array.c.s
 .PHONY : 05.2d_array.c.s
 
+06.shuffle_array.obj: 06.shuffle_array.c.obj
+
+.PHONY : 06.shuffle_array.obj
+
+# target to build an object file
+06.shuffle_array.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\06.shuffle_array.c.obj
+.PHONY : 06.shuffle_array.c.obj
+
+06.shuffle_array.i: 06.shuffle_array.c.i
+
+.PHONY : 06.shuffle_array.i
+
+# target to preprocess a source file
+06.shuffle_array.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\06.shuffle_array.c.i
+.PHONY : 06.shuffle_array.c.i
+
+06.shuffle_array.s: 06.shuffle_array.c.s
+
+.PHONY : 06.shuffle_array.s
+
+# target to generate assembly for a file
+06.shuffle_array.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\06.shuffle_array.c.s
+.PHONY : 06.shuffle_array.c.s
+
+07.quick_sort.obj: 07.quick_sort.c.obj
+
+.PHONY : 07.quick_sort.obj
+
+# target to build an object file
+07.quick_sort.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\07.quick_sort.c.obj
+.PHONY : 07.quick_sort.c.obj
+
+07.quick_sort.i: 07.quick_sort.c.i
+
+.PHONY : 07.quick_sort.i
+
+# target to preprocess a source file
+07.quick_sort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\07.quick_sort.c.i
+.PHONY : 07.quick_sort.c.i
+
+07.quick_sort.s: 07.quick_sort.c.s
+
+.PHONY : 07.quick_sort.s
+
+# target to generate assembly for a file
+07.quick_sort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Chapter5.dir\07.quick_sort.c.s
+.PHONY : 07.quick_sort.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -286,6 +340,12 @@ help:
 	@echo ... 05.2d_array.obj
 	@echo ... 05.2d_array.i
 	@echo ... 05.2d_array.s
+	@echo ... 06.shuffle_array.obj
+	@echo ... 06.shuffle_array.i
+	@echo ... 06.shuffle_array.s
+	@echo ... 07.quick_sort.obj
+	@echo ... 07.quick_sort.i
+	@echo ... 07.quick_sort.s
 .PHONY : help
 
 

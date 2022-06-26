@@ -1,0 +1,53 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+#include"include/io_utils.h"
+
+#define PLAYER_COUNT 50
+
+void SwapElements(int array[], int first, int second){
+  int temp = array[first];
+  array[first] = array[second];
+  array[second] = temp;
+}
+
+void ShuffleArray(int array[], int length){
+
+  srand(time(NULL));
+  for (int i = length - 1; i > 0; --i) {
+
+    int random_number = rand() % i;
+    SwapElements(array, i, random_number);
+
+  }
+
+}
+
+int Partition(int array[], int low, int high){
+
+}
+
+void QuickSort(int array[], int low, int high){
+  if(low >= high) return;
+
+  int partition = Partition(array, low, high);
+  QuickSort(array,low)
+
+}
+
+
+int main(void){
+
+  int players[PLAYER_COUNT] = {0};
+  for (int i = 0; i < 50; ++i) {
+    players[i] = i;
+  }
+
+  PRINT_INT_ARRAY(players, PLAYER_COUNT);
+
+  ShuffleArray(players,PLAYER_COUNT);
+
+  PRINT_INT_ARRAY(players, PLAYER_COUNT);
+
+  return 0;
+}

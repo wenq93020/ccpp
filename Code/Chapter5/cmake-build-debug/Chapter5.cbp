@@ -97,6 +97,12 @@
 		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/05.2d_array.c">
 			<Option target="Chapter5"/>
 		</Unit>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/06.shuffle_array.c">
+			<Option target="Chapter5"/>
+		</Unit>
+		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/07.quick_sort.c">
+			<Option target="Chapter5"/>
+		</Unit>
 		<Unit filename="D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/include/io_utils.h">
 			<Option target="Chapter5"/>
 		</Unit>

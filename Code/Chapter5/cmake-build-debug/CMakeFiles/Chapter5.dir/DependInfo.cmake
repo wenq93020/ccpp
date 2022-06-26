@@ -9,6 +9,8 @@ set(CMAKE_DEPENDS_CHECK_C
   "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/03.string.c" "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/cmake-build-debug/CMakeFiles/Chapter5.dir/03.string.c.obj"
   "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/04.array_parameter.c" "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/cmake-build-debug/CMakeFiles/Chapter5.dir/04.array_parameter.c.obj"
   "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/05.2d_array.c" "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/cmake-build-debug/CMakeFiles/Chapter5.dir/05.2d_array.c.obj"
+  "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/06.shuffle_array.c" "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/cmake-build-debug/CMakeFiles/Chapter5.dir/06.shuffle_array.c.obj"
+  "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/07.quick_sort.c" "D:/StudySpace/CC++/CYuYanXiTongHuaJingJiang/ccpp/Code/Chapter5/cmake-build-debug/CMakeFiles/Chapter5.dir/07.quick_sort.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "MSVC")
 
